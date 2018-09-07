@@ -1,0 +1,22 @@
+{
+    "name": "jxw/bjd",
+    "description": "build jwt data",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jiangxuewen",
+            "email": "445251692@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.0",
+        "firebase/php-jwt": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "build-jwt-data\\": "src/"
+        }
+    }
+}
