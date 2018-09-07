@@ -2,7 +2,7 @@
   "name": "jxw/bjd",
   "description": "build jwt data",
   "type": "library",
-  "license": "MIT License",
+  "license": "MIT",
   "authors": [
     {
       "name": "jiangxuewen",
